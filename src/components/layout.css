@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,700');
+@import url('https://fonts.googleapis.com/css?family=Heebo:900');
+
+html {
+  width: 60%;
+  color: #222222;
+  font-family: 'Roboto Mono', monospace;
+  margin-left: 15px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a p, p a {
+  display: inline;
+  color: blue;
+  text-decoration: underline;
+  line-height: 35px;
+}
+
+a p:hover, p a:hover{
+  background-color: cyan;
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Heebo', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 40px;
+}
+
+h2 {
+  font-family: 'Heebo', sans-serif;
+  letter-spacing: 2px;
+}

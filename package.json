@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-wordpress-essentials",
+  "private": true,
+  "description": "Bare essentials gatsby-wordpress starter",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "Natalie Gustafsson (https://nataliegustafsson.com)",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "gatsby": "^2.3.14",
+    "gatsby-source-wordpress": "^3.0.52",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
