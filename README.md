@@ -5,7 +5,7 @@ Demo: http://helpful-kitten.surge.sh/
 
 ## How to use
 
-    gatsby new NAME
+    gatsby new NAME https://github.com/natalieah/Gatsby-Wordpress-starter
 
 * Edit `gatsby-config.js`, and change `baseUrl` to the url of your wordpress site
   - You need to have at least 1 post and 1 page on your WP site
