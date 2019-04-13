@@ -1,7 +1,7 @@
 # Gatsby WordPress Essentials Starter
 A bare essentials starter for using gatsby with wordpress.
 
-Demo:
+Demo: http://helpful-kitten.surge.sh/
 
 ## How to use
 
